@@ -42,4 +42,3 @@
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sowmya_vyk?t=INhc01YzXcVyrz5--XfqaQ&s=08)
   [![CodeChef](	https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sowmya_vyk)
 
-![Visitor Count](https://profile-counter.glitch.me/{sowmyavyk}/count.svg)
