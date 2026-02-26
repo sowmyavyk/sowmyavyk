@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Vyakaranam Sowmya
+# Hellooooooo, I'm Sowmya Vyakaranam
 </div>
 :) Iam a AI/ML Engineer </br>
 :( Trying not to get replaced by AI one day </br>
