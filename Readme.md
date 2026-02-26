@@ -3,7 +3,7 @@
 # Hi 👋, I'm Vyakaranam Sowmya
 </div>
 :) Iam a AI/ML Engineer </br>
-:( Trying not to get replaced by AI on day </br>
+:( Trying not to get replaced by AI one day </br>
  Wanna connect? Mail over vyakaranamsowmya8@gmail.com (boring email ID ik!)
 
 
@@ -34,9 +34,6 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sowmyavyk&theme=radical&hide_border=true)
 
 
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sowmyavyk&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sowmyavyk&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
   
 ## 🌐 Where to find me
