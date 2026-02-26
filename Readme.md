@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Vyakaranam Sowmya
 </div>
-🐍 Iam a Python Enthusiast from India🇮🇳  </br>
-🚀 Fostering Collaboration, Sparking Creativity – Let's Build and Conquer in Code! 💻🌎  </br>
-📧 Gmail: vyakaranamsowmya8@gmail.com
+:) Iam a AI/ML Engineer </br>
+:( Trying not to get replaced by AI on day </br>
+ Wanna connect? Mail over vyakaranamsowmya8@gmail.com (boring email ID ik!)
 
 
 
