@@ -40,6 +40,11 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AES Encryption](https://img.shields.io/badge/AES%20Encryption-4A90D9?style=for-the-badge&logo=shield&logoColor=white)
 ![Access Control](https://img.shields.io/badge/Access%20Control-2E7D32?style=for-the-badge&logo=lock&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF9F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-00FF00?style=for-the-badge&logo=ultralytics&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ## 📈 My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sowmyavyk&theme=radical&hide_border=true)<br/>
